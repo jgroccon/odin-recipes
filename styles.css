@@ -1,0 +1,18 @@
+h1 {
+    color: darkslategrey;
+    font-size: 32px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin-top: 20px;
+    text-decoration: underline;
+}
+a {
+    color: blue;
+    font-size: 16px;
+    padding: 10px;
+    margin-top: 20px;
+}
+img {
+    width: 70%;
+    height: 70%;
+}
